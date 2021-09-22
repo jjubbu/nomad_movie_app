@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+.nav{
+    height: 50px;
+    text-align: center;
+    
+    
+}
+.nav  a {
+    color: white;
+    font-size: 2rem;
+    line-height: 50px;
+}
+.nav a:last-child{
+    margin-left: 10px;
+}
